@@ -23,3 +23,8 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Backend local test data
+/backend/uploads/
+/backend/test_repository/
+/backend/test_repository.zip
