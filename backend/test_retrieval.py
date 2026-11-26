@@ -29,7 +29,8 @@ retriever.index_chunks(chunks)
 print("STEP 8: Chunks indexed")
 
 
-question = "Where is student search functionality implemented?"
+question = "Find the method that searches for a student using ID?" \
+""
 
 print("STEP 9: Searching:", question)
 
